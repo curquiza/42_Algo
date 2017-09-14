@@ -1,0 +1,11 @@
+includes/.*
+main/*.o
+main/main_tests
+**/**/*.swp
+**/**/*.o
+**/**/*.a
+ft_printf
+01_Divers/a.out
+curquitest/**/.o
+curquitest/**/.a
+curquitest/curquitest
