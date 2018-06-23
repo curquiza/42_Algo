@@ -1,0 +1,9 @@
+**/**/*.o
+**/**/*.a
+**/**/*.swp
+curquiza.filler
+**/**/debug_init
+**/**/debug_strat_map
+**/**/filler.trace
+**/**/trace
+**/**/rslt.txt
